@@ -24,5 +24,5 @@ A Python-based GUI tool for downloading YouTube videos.
 1. Clone this repository:
    ```bash
    git clone https://github.com/Omadzelevan/YT_Video_Downloader-GUI-.git
-
+   pip install -r requirements.txt
    ```
